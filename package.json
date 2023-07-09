@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "admmello/eslint-admmello"
+    "url": "admmello/admmello-eslint"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",

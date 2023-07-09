@@ -11,11 +11,15 @@
 ## Setup
 
 1. Install the dependencies
+
 ```
 npm i -D eslint @admmello/eslint-config
+
+yarn -D eslint @admmello/eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
+
 ```
 {
   "extends": "@admmello/eslint-config/react"
