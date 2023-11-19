@@ -36,6 +36,9 @@ module.exports = {
     }],
     'react/react-in-jsx-scope': 'off',
     'react/prop-types': 'off',
+    '@typescript-eslint/ban-ts-comment': 'off',
+    '@typescript-eslint/no-empty-function': 'off',
+    'react-hooks/exhaustive-deps': 'off',
     'jsx-a11y/alt-text': [
       'warn',
       {
